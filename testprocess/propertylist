@@ -1,0 +1,53 @@
+#对应的url：sequence
+#标题：title
+#属性list：properties
+    # 0:Topic
+    # 1:Build Version
+    # 2:所属计划
+    # 3:PM负责人
+    # 4:UE负责人
+    # 5:第三方问题
+    # 6:第三方问题类型
+    # 7:第三方问题模块
+    # 8:插件 / SDK版本
+    # 9:负责人类型
+    # 10:Priority
+    # 11:Test Method
+    # 12:Issue Type
+    # 13:Bug
+    # Quality
+    # 14:Resolution
+    # 15:Bug Type
+    # 16:Defect Age
+    # 17:Inject Phase
+    # 18:How Found
+    # 19:Fix SVN Version
+    # 20:Fix Version
+    # 21:线上bug
+    # 22:Tag
+    # 23:模块
+    # 24:关注人
+    # 25:QA负责人
+    # 26:备注
+    # 27:版本号
+    # 28:Bug方
+    # 29:Bug类型
+    # 30:计划修复版本
+    # 31:Bug发现阶段(QA)
+    # 32:最合适发现问题阶段(QA)
+    # 33:漏测原因详解(QA)
+    # 34:问题引入原因(RD)
+    # 35:问题引入原因 - 总结（RD）
+    # 36:最适合发现问题阶段(RD)
+    # 37:漏测原因(RD)
+    # 38:是否漏测
+    # 39:问题引入原因 - 分类（RD）
+    # 40:改进措施(RD QA)
+    # 41:Topic组
+    # 42:漏测原因（QA）
+    # 43:待分析问题分类
+    # 44:Bug分析
+    # 45:test
+    # 46:是否阻塞灰度 / 发版
+    # 47:RD负责人
+    # 48:问题属性
